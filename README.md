@@ -1,76 +1,59 @@
-
+<!-- Animated header banner -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:061B2B,100:007BFF&height=200&section=header&text=DIVAKAR&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Aspiring%20Web%20Developer%20%7C%20Quick%20Learner&descAlignY=65&descSize=18" width="100%" />
-
-<br/>
-
-# <span>Building My Future On</span>
-
-### 💻 Focus • Web Development • Learner • Always
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Divakar!;Aspiring+Web+Developer;Learning+Python+and+C%2FC%2B%2B;Turning+Ideas+Into+Websites" alt="Typing introduction" />
-
-<br/>
-
-<a href="https://github.com/divakar181108-tech">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00CFFF" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00CFFF" />
-</a>
-<a href="https://www.instagram.com/">
-  <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00CFFF" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=divakar181108-tech&label=PROFILE+VIEWS&color=00CFFF&style=for-the-badge" alt="Profile views" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%2C%20I'm%20Divakar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science&descAlignY=58&descSize=20" width="100%" />
 </div>
 
----
+<!-- Typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Quick+Learner+%F0%9F%9A%80;AI+%26+Data+Science+Student+%F0%9F%93%8A;HTML+%26+CSS+Developer+%F0%9F%8C%90;Always+Learning%2C+Always+Building+%F0%9F%92%A1" alt="Typing SVG" />
+</div>
+
+<br>
 
 ## 👨‍💻 About Me
 
-- 🎓 Student passionate about technology and programming.
-- 🌐 Interested in web development.
-- 🐍 Learning Python and programming fundamentals.
-- 🚀 Improving my coding skills every day.
-- 🎯 Goal: Build creative and useful projects.
+- 👋 I'm **Divakar**
+- 🎓 Studying **B.Tech Artificial Intelligence & Data Science (AI&DS)** at **Bannari Amman Institute of Technology**
+- ⚡ I'm a **quick learner**, I pick up new tools and technologies fast
+- 🌱 Currently learning web development and data science
+- 🎯 Goal: to build useful projects and grow as a developer
 
-## 🛠️ Tech Stack
+<br>
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,c,cpp,git,github,vscode&theme=dark" alt="Technology skills" />
-
-</div>
-
-## 📊 GitHub Statistics
+## 🛠️ Skills
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=divakar181108-tech&show_icons=true&theme=transparent&bg_color=000000&title_color=00CFFF&text_color=FFFFFF&icon_color=00CFFF&border_color=00CFFF" height="165" />
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divakar181108-tech&layout=compact&theme=transparent&bg_color=000000&title_color=00CFFF&text_color=FFFFFF&border_color=00CFFF" height="165" />
+## 📊 GitHub Stats
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=divakar181108-tech&theme=dark&background=000000&ring=00CFFF&fire=008BFF&currStreakLabel=00CFFF&border=00CFFF" width="70%" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </div>
 
----
+<br>
+
+## 🤝 Connect With Me
 
 <div align="center">
-
-### ⚡ "Better Code. Better Tomorrow."
-
-**Turning Ideas Into Websites**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,50:061B2B,100:000000&height=100&section=footer" width="100%" />
-
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
+
+<br>
+
+<!-- Profile views counter + footer wave -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%" />
