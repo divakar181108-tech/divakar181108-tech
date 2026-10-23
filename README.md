@@ -1,59 +1,97 @@
-<!-- Animated header banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi%2C%20I'm%20Divakar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20AI%20%26%20Data%20Science&descAlignY=58&descSize=20" width="100%" />
+
+<!-- ANIMATED TYPING HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=42&pause=800&color=00F7FF&center=true&vCenter=true&width=900&height=100&lines=HEY%2C+I'M+DIVAKAR+M;AIDS+STUDENT+%F0%9F%92%BB;FRONTEND+DEVELOPER+IN+PROGRESS;QUICK+LEARNER+%E2%9A%A1" width="100%" alt="Animated introduction"/>
+
+<!-- ANIMATED BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050A30,50:0077FF,100:00F7FF&text=DIVAKAR%20M&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=INFORMATION%20TECHNOLOGY%20%7C%20BAIDS&descAlignY=62&animation=twinkling" alt="Animated blue banner"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎓-Bannari_Amman_Institute_of_Technology-071952?style=for-the-badge" alt="College"/>
+
+<br/><br/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Animated programmer coding"/>
+
 </div>
 
-<!-- Typing animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Quick+Learner+%F0%9F%9A%80;AI+%26+Data+Science+Student+%F0%9F%93%8A;HTML+%26+CSS+Developer+%F0%9F%8C%90;Always+Learning%2C+Always+Building+%F0%9F%92%A1" alt="Typing SVG" />
-</div>
+---
 
-<br>
-
-## 👨‍💻 About Me
-
-- 👋 I'm **Divakar**
-- 🎓 Studying **B.Tech Artificial Intelligence & Data Science (AI&DS)** at **Bannari Amman Institute of Technology**
-- ⚡ I'm a **quick learner**, I pick up new tools and technologies fast
-- 🌱 Currently learning web development and data science
-- 🎯 Goal: to build useful projects and grow as a developer
-
-<br>
-
-## 🛠️ Skills
+<h2 align="center">⚡ ABOUT ME ⚡</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+
+```javascript
+const developer = {
+    name: "Divakar M",
+    college: "Bannari Amman Institute of Technology",
+    department: "Artificial Intelligence and Data Science",
+    skills: ["HTML", "CSS", "JavaScript"],
+    personality: "Quick Learner",
+    passion: "Web Development",
+    mindset: "Never Stop Learning 🚀"
+};
+```
+
 </div>
 
-<br>
+---
 
-## 📊 GitHub Stats
+<h2 align="center">🔥 MY SKILLS 🔥</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" width="350" alt="Animated style skill icons"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-2196F3?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+
 </div>
+
+---
+
+<h2 align="center">🚀 MY CODING JOURNEY 🚀</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=700&color=00F7FF&center=true&vCenter=true&width=750&height=80&lines=Learning+%E2%9C%A8;Coding+%F0%9F%92%BB;Creating+%F0%9F%94%A5;Improving+Every+Day+%F0%9F%9A%80" alt="Animated coding journey"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=divakar-sudo&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" width="100%" alt="GitHub statistics"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=divakar181108-tech&theme=tokyonight&hide_border=true" width="100%" alt="GitHub streak"/>
+
 </div>
 
-<br>
+---
 
-## 🤝 Connect With Me
+<h2 align="center">🌌 MY MINDSET 🌌</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:050A30,100:0077FF&text=LEARN%20%7C%20BUILD%20%7C%20GROW&fontSize=28&fontColor=FFFFFF&animation=twinkling" width="100%" alt="Animated developer motto"/>
+
+### 💙 Turning Curiosity into Code
+
+### ⚡ Small Steps. Big Dreams.
+
+### 🚀 Future Software Developer
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=divakar181108-tech&style=for-the-badge&color=00F7FF" alt="Profile views"/>
+
+**THANKS FOR VISITING MY PROFILE! 💫**
+
 </div>
 
-<br>
 
-<!-- Profile views counter + footer wave -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00c6ff&style=for-the-badge" />
-</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%" />
+
