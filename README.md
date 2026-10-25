@@ -1,48 +1,23 @@
 
-<!--
-  DIVAKAR | GitHub Profile README
-  Theme: Pure Black + Neon Blue
-  GitHub username: divakar181108-tech
--->
+# ⚡ DIVAKAR | CODE BEYOND LIMITS
 
 <div align="center">
 
-<!-- ANIMATED HEADER -->
+<!-- NEON ANIMATED HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002B45,100:007BFF&height=210&section=header&text=DIVAKAR&fontSize=68&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ASPIRING%20WEB%20DEVELOPER%20%7C%20QUICK%20LEARNER&descSize=15&descAlignY=60" alt="Divakar animated header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050505,50:003B46,100:00F5FF&text=DIVAKAR&fontColor=FFFFFF&fontSize=65&fontAlignY=45&animation=fadeIn&stroke=00F5FF&strokeWidth=2" width="100%" alt="Divakar Neon Banner"/>
 
-<!-- ANIMATED TYPING INTRODUCTION -->
+<!-- ANIMATED TYPING INTRO -->
 
-<a href="https://github.com/divakar181108-tech">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=800&color=00CFFF&center=true&vCenter=true&width=650&lines=Hello%2C+Welcome+to+my+Profile!;Aspiring+Web+Developer;Learning+Something+New+Every+Day;Turning+Ideas+Into+Websites;Building+My+Future+One+Line+at+a+Time" alt="Animated typing introduction"/>
-</a>
-
-<br/>
-
-### `Building My Future On 💻`
-
-**Focus • Web Development • Learner • Always**
-
-<br/>
-
-<!-- PROFILE BADGES -->
-
-<a href="https://github.com/divakar181108-tech">
-<img src="https://img.shields.io/badge/GitHub-Profile-000000?style=for-the-badge&logo=github&logoColor=00CFFF" alt="GitHub profile"/>
-</a>
-<a href="https://github.com/divakar181108-tech?tab=repositories">
-<img src="https://img.shields.io/badge/My-Projects-001F3F?style=for-the-badge&logo=github&logoColor=00CFFF" alt="My projects"/>
-</a>
-<a href="https://github.com/divakar181108-tech?tab=followers">
-<img src="https://img.shields.io/badge/Connect-With%20Me-007BFF?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Connect on GitHub"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=Hello%2C+World!+I%27m+Divakar+%F0%9F%91%8B;AI+%26+Data+Science+Student;Future+Developer+%F0%9F%9A%80;HTML+%7C+CSS+%7C+JavaScript+%7C+Python;LEARN.+BUILD.+INNOVATE.+REPEAT." alt="Animated Introduction"/>
 
 <br/><br/>
 
-<!-- PROFILE VIEWS COUNTER -->
-<!-- If this external counter fails, remove only the image below. -->
 
-<img src="https://komarev.com/ghpvc/?username=divakar181108-tech&label=PROFILE%20VIEWS&color=00CFFF&style=for-the-badge" alt="Profile views counter"/>
+
+<br/><br/>
+
+
 
 </div>
 
@@ -50,118 +25,152 @@
 
 ## 👨‍💻 About Me
 
-```text
-Name       : Divakar
-Role       : Aspiring Web Developer
-Mindset    : Quick Learner
-Focus      : Programming & Web Development
-Goal       : Learn, Build, Improve, Repeat
-```
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
 
-- 🌱 I am learning programming and developing my technical skills.
-- 💻 I am interested in creating websites and software projects.
-- 🧠 I enjoy exploring new technologies and solving coding problems.
-- 🚀 I believe that consistent practice leads to improvement.
-- 🎯 My goal is to become a skilled developer and build useful projects.
-- ⚡ My motto: Focus on progress, not perfection.
+Hey there! I'm **Divakar**, an enthusiastic student pursuing **Artificial Intelligence and Data Science (AIDS) at Bannari Amman Institute of Technology**.
+
+I'm passionate about programming, web development, creative designs, and exploring new technologies.
+
+- 🎓 AI & Data Science Student
+- 🌐 Learning web development
+- 💻 Exploring programming languages
+- 🚀 Building projects and improving my skills
+- 🧠 Interested in Artificial Intelligence
+- 🎯 Goal: Become a skilled developer
+
+> "Don't just dream about the future. Write the code that builds it."
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧠 My Tech Universe
 
 <div align="center">
 
-### Programming Languages
+### 💻 Programming & Development
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" alt="C, C++ and Python"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=6" alt="HTML CSS JavaScript  Logos"/>
 
-### Web Development
+### 🛠️ Tools I Use
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS and JavaScript"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" alt="Git GitHub Visual Studio Code Logos"/>
 
-### Developer Tools
+<br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub and VS Code"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&width=650&lines=HTML+%7C+Structure;CSS+%7C+Creative+Design;JavaScript+%7C+Interactivity" alt="Animated Technology Text"/>
 
 </div>
 
----
+### ⚡ What I'm Learning
 
-## 🎯 My Current Focus
-
-| Area | My Goal |
-|:---|:---|
-| 💻 Programming | Strengthen my coding fundamentals |
-| 🌐 Web Development | Learn to create responsive websites |
-| 🐍 Python | Improve problem-solving skills |
-| 🔧 Git & GitHub | Manage and share projects |
-| 🚀 Projects | Turn ideas into working applications |
-| 📚 Learning | Improve a little every day |
+- 🌐 **HTML** — Creating structured web pages.
+- 🎨 **CSS** — Designing modern layouts and animations.
+- ⚡ **JavaScript** — Making websites interactive.
+- 🔥 **Next Mission** — Building real-world projects.
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 My Projects
+
+
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🧮 Calculator | Simple calculator interface | HTML, CSS |
+| 👤 Profile Page | Personal profile design | HTML, CSS |
+| 🌐 Portfolio | Personal website | HTML, CSS, JavaScript |
+
+*Replace these examples with your real projects when you upload them to GitHub.*
+
+---
+
+## 📊 My GitHub Universe
 
 <div align="center">
 
 <!-- GITHUB STATS -->
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=divakar181108-tech&show_icons=true&hide_border=true&bg_color=000000&title_color=00CFFF&text_color=FFFFFF&icon_color=00CFFF&include_all_commits=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=050505&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF&rank_icon=github" alt="GitHub Statistics"/>
 
-<!-- TOP LANGUAGES -->
+<!-- MOST USED LANGUAGES -->
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divakar181108-tech&layout=compact&hide_border=true&bg_color=000000&title_color=00CFFF&text_color=FFFFFF" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=050505&title_color=00F5FF&text_color=FFFFFF" alt="Most Used Languages"/>
 
 <br/><br/>
 
 <!-- CONTRIBUTION STREAK -->
 
-<img width="75%" src="https://streak-stats.demolab.com/?user=divakar181108-tech&theme=dark&hide_border=true&background=000000&ring=00CFFF&fire=007BFF&currStreakLabel=00CFFF" alt="GitHub contribution streak"/>
+<img width="80%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=050505&ring=00F5FF&fire=FF6B35&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-## 🌟 My Developer Mindset
+<br/><br/>
 
-<div align="center">
-
-| ⚡ Focus | 💻 Create | 🧠 Learn | 🚀 Improve |
-|:---:|:---:|:---:|:---:|
-| Stay consistent | Build projects | Explore ideas | Keep progressing |
 
 </div>
 
-> "Great things are built one line of code at a time."
+---
 
-I am at the beginning of my development journey, and every project is an opportunity to learn something new.
+## 🎯 My Goals
+
+- [ ] Improve my programming fundamentals.
+- [ ] Build responsive websites.
+- [ ] Develop more JavaScript projects.
+- [ ] Learn Python in depth.
+- [ ] Explore AI and Data Science.
+- [ ] Contribute to open-source projects.
 
 ---
 
-## 📁 Explore My Repositories
+## 🌌 My Developer Mindset
 
 <div align="center">
 
-<a href="https://github.com/divakar181108-tech?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-000000?style=for-the-badge&logo=github&logoColor=00CFFF" alt="Explore my repositories"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2300&pause=600&color=00F5FF&center=true&vCenter=true&width=650&lines=THINK+BIG.+START+SMALL.;LEARN+SOMETHING+NEW.;DEBUG.+FIX.+IMPROVE.;TURN+IDEAS+INTO+REALITY.;NEVER+STOP+LEARNING." alt="Developer Mindset Animation"/>
+
+</div>
+
+- ⚡ Consistency over perfection.
+- 🧩 Practice makes progress.
+- 🔥 Learn by building.
+- 🌱 Improve every day.
+- 🚀 Turn curiosity into creativity.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/divakar-m-660a52443/?isSelfProfile=true">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/divakar181108-tech">
-<img src="https://img.shields.io/badge/FOLLOW-DIVAKAR-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="Follow Divakar"/>
-</a>
+**Feel free to explore my repositories and follow my learning journey!**
 
 </div>
 
 ---
 
+## 🌌 The Journey Continues
+
 <div align="center">
 
-### ⚡ BETTER CODE. BETTER TOMORROW.
+### LEARN → BUILD → BREAK → FIX → REPEAT
 
-**FOCUS • LEARN • BUILD • REPEAT**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:003B46,100:050505&height=140&section=footer&animation=fadeIn" width="100%" alt="Animated Neon Footer"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,50:002B45,100:000000&height=120&section=footer" alt="Animated footer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=600&color=00F5FF&center=true&vCenter=true&width=650&lines=KEEP+CODING+%E2%9A%A1;KEEP+CREATING+%F0%9F%9A%80;KEEP+EVOLVING+%F0%9F%8C%8C" alt="Animated Footer Text"/>
+
+### ⚡ DIVAKAR | CODE BEYOND LIMITS ⚡
 
 </div>
